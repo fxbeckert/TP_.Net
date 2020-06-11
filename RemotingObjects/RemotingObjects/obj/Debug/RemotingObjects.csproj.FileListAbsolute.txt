@@ -1,0 +1,6 @@
+C:\Git repo\RemotingObjects\RemotingObjects\bin\Debug\RemotingObjects.dll
+C:\Git repo\RemotingObjects\RemotingObjects\bin\Debug\RemotingObjects.pdb
+C:\Git repo\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.csprojAssemblyReference.cache
+C:\Git repo\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.csproj.CoreCompileInputs.cache
+C:\Git repo\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.dll
+C:\Git repo\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.pdb

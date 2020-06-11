@@ -1,0 +1,13 @@
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\bin\Debug\RemotingObjects.dll
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\bin\Debug\RemotingObjects.pdb
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csprojAssemblyReference.cache
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.Form1.resources
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.Properties.Resources.resources
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.GenerateResource.cache
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.CoreCompileInputs.cache
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.CopyComplete
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.exe
+C:\Git repo\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.pdb
